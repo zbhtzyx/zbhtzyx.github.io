@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>赵同学的博客</title>
+  <title>赵同學の折腾博客</title>
   
-  <subtitle>赵同学的博客</subtitle>
+  <subtitle>赵同學の博客</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://zbhtzyx.github.io/"/>
@@ -10,7 +10,7 @@
   <id>https://zbhtzyx.github.io/</id>
   
   <author>
-    <name>赵同学</name>
+    <name>赵同學</name>
     
   </author>
   
